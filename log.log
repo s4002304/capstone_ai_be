@@ -1,0 +1,13 @@
+2024-07-15 16:11:40.141 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-15 16:13:25.163 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-15 16:15:22.748 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-15 16:16:13.703 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-15 16:19:55.746 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-15 16:21:51.059 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-15 16:50:36.593 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-15 16:51:35.762 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-15 16:52:20.714 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-15 16:54:00.046 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-15 16:55:16.581 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-15 16:57:27.430 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-15 16:58:01.264 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
