@@ -106,12 +106,11 @@ def img_object_detection_to_json(file: bytes = File(...)):
     Returns:
         dict: JSON format containing the Objects Detections.
     """
-    # Step 1: Initialize the result dictionary with None values
-    # result={'detect_objects': "None"}
-    result={'detect_objects': "teststs"}
+    result={'detect_objects': {}}
     # Step 2: Convert the image file to an image object
     input_image = get_image_from_bytes(file)
     predict_result = get_json_prediction_result(input_image)
+    result['detect_objects'] = predict_result
     # Step 5: Logs and return
     logger.info("results: {}", result)
     return result

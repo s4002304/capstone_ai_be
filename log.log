@@ -11,3 +11,20 @@
 2024-07-15 16:55:16.581 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
 2024-07-15 16:57:27.430 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
 2024-07-15 16:58:01.264 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-16 06:46:01.430 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-16 09:10:36.919 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-16 09:14:02.009 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-16 09:21:32.647 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-16 09:22:12.601 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-16 09:22:46.778 | INFO     | main:img_object_detection_to_json:116 - results: {'detect_objects': 'teststs'}
+2024-07-16 09:45:52.181 | INFO     | main:img_object_detection_to_json:111 - predict_result: [{'class': 'Glass', 'boundingBox': tensor([[247.1738, 289.3658],
+        [422.5179, 289.4668],
+        [422.6427,  72.6370],
+        [247.2987,  72.5360]]), 'conf': tensor(0.8563)}, {'class': 'Plastic', 'boundingBox': tensor([[ 44.7148, 302.2875],
+        [236.5056, 302.1844],
+        [236.3541,  20.4438],
+        [ 44.5633,  20.5470]]), 'conf': tensor(0.3690)}]
+2024-07-16 09:59:59.497 | INFO     | main:img_object_detection_to_json:115 - results: {'detect_objects': '[{"class": "Glass", "boundingBox": [[247.17379760742188, 289.3658142089844], [422.5178527832031, 289.4668273925781], [422.6427307128906, 72.63700866699219], [247.29867553710938, 72.53602600097656]], "conf": 0.8562777638435364}, {"class": "Plastic", "boundingBox": [[44.714813232421875, 302.28753662109375], [236.50558471679688, 302.18438720703125], [236.35406494140625, 20.44384765625], [44.56329345703125, 20.5469970703125]], "conf": 0.368984192609787}]'}
+2024-07-16 10:05:32.599 | INFO     | main:img_object_detection_to_json:115 - results: {'detect_objects': '["{\\"class\\": \\"Glass\\", \\"boundingBox\\": [[247.17379760742188, 289.3658142089844], [422.5178527832031, 289.4668273925781], [422.6427307128906, 72.63700866699219], [247.29867553710938, 72.53602600097656]], \\"conf\\": 0.8562777638435364}", "{\\"class\\": \\"Plastic\\", \\"boundingBox\\": [[44.714813232421875, 302.28753662109375], [236.50558471679688, 302.18438720703125], [236.35406494140625, 20.44384765625], [44.56329345703125, 20.5469970703125]], \\"conf\\": 0.368984192609787}"]'}
+2024-07-16 10:07:48.398 | INFO     | main:img_object_detection_to_json:115 - results: {'detect_objects': '["{\\"class\\": \\"Glass\\", \\"boundingBox\\": [[247.17379760742188, 289.3658142089844], [422.5178527832031, 289.4668273925781], [422.6427307128906, 72.63700866699219], [247.29867553710938, 72.53602600097656]], \\"conf\\": 0.8562777638435364}", "{\\"class\\": \\"Plastic\\", \\"boundingBox\\": [[44.714813232421875, 302.28753662109375], [236.50558471679688, 302.18438720703125], [236.35406494140625, 20.44384765625], [44.56329345703125, 20.5469970703125]], \\"conf\\": 0.368984192609787}"]'}
+2024-07-16 10:10:10.007 | INFO     | main:img_object_detection_to_json:115 - results: {'detect_objects': [{'class': 'Glass', 'boundingBox': [[247.17379760742188, 289.3658142089844], [422.5178527832031, 289.4668273925781], [422.6427307128906, 72.63700866699219], [247.29867553710938, 72.53602600097656]], 'conf': 0.8562777638435364}, {'class': 'Plastic', 'boundingBox': [[44.714813232421875, 302.28753662109375], [236.50558471679688, 302.18438720703125], [236.35406494140625, 20.44384765625], [44.56329345703125, 20.5469970703125]], 'conf': 0.368984192609787}]}
