@@ -51,7 +51,7 @@ def parse_predict_result_to_json(predict_result: Results):
     for index, predicted_class_index in enumerate(predict_result[0].obb.cls):
         new_obj = {
             "class": model_obb.model.names[int(predicted_class_index)],
-            "boundingBox":  predict_result[0].obb.xyxyxyxy[index].tolist(),
+            "boundingBox":  predict_result[0].obb.xyxyxyxyn[index].tolist(),
             "conf": predict_result[0].obb.conf[index].tolist()
         }
         res.append(new_obj)
